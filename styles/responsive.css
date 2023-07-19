@@ -13,9 +13,9 @@
         justify-content: center;
     }
 
-        /* banner section styles responsive */
+        /* banner section styles responsive for tablet */
 
-        /* .banner {
+        .banner {
             padding: 40px 0;
             background-position: left bottom;
             background-size: 50%;
@@ -26,35 +26,35 @@
             gap: 31px;
         }
     
-        .banner #inner-banner .banner-content {
+        .banner #inner-banner #banner-content {
             width: 100%;
             text-align: center;
             padding-top: 22px;
         }
     
-        .banner #inner-banner .banner-content h2 {
+        .banner #inner-banner #banner-content h2 {
             font-size: 22px;
         }
     
-        .banner #inner-banner .banner-content h1 {
+        .banner #inner-banner #banner-content h1 {
             font-size: 55px;
         }
     
-        .banner #inner-banner .banner-content ul {
+        .banner #inner-banner #banner-content ul {
             text-align: left;
             width: 90%;
             margin: 0 auto;
         }
     
-        .banner #inner-banner .banner-content ul li {
+        .banner #inner-banner #banner-content ul li {
             font-size: 12px;
         }
     
-        .banner #inner-banner .banner-content ul li i {
+        .banner #inner-banner #banner-content ul li i {
             margin-right: 8px;
         }
     
-        .banner #inner-banner .banner-content .banner-btns button {
+        .banner #inner-banner #banner-content .banner-btns button {
             font-size: 14px;
             padding: 10px 20px;
             margin-top: 30px;
@@ -62,27 +62,27 @@
     
         .banner #inner-banner .banner-image {
             width: 100%;
-        } */
+        }
 
-    /* online games funny videos section styles */
+    /* online games funny videos section styles for tablet*/
 
-    /* .online-games h2{
+    .online-games h2{
         font-size: 30px;
     }
-    .online-games .online-games-desc{
+    .online-games #online-games-description{
         font-size: 16px;
     }
-    .online-games .game-carts{
+    .online-games #games-card{
         flex-direction: row;
         flex-wrap: wrap;
         gap: 30px;
     }
-    .online-games .game-carts .cart{
+    .online-games #games-card #cart{
         width: 47%;
     }
-    .online-games .game-carts .cart img{
+    .online-games #games-card #cart img{
         width: 100%;
-    } */
+    }
 
     /* play instant game section styles */
 
@@ -90,26 +90,26 @@
         gap: 80px;
     }
 
-    #instant-game .instant-game-content{
+    #instant-game #instant-game-content{
         width: 100%;
     }
-    #instant-game .instant-game-content h2{
+    #instant-game #instant-game-content h2{
         font-size: 26px;
         text-align: right;
     }
-    #instant-game .instant-game-content p{
+    #instant-game #instant-game-content p{
         text-align: right;
         width: 100%;
         margin: 0 auto;
     }
-    #instant-game .instant-game-pic{
+    #instant-game #instant-game-pic{
         width: 80%;
     }
-    #instant-game .instant-game-pic .instant-main-pic{
+    #instant-game #instant-game-pic .instant-main-pic{
         width: 100%;
         margin-left: 0;
     }
-    #instant-game .instant-game-pic .instant-secondery-pic{
+    #instant-game #instant-game-pic .instant-secondery-pic{
         top: -80px;
         left: -30px;
     }
